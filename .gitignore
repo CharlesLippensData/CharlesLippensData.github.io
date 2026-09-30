@@ -1,0 +1,15 @@
+# Fichiers système et temporaires, à ne pas publier
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+# Environnements et caches Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# Outil local, non publié : changement de l'adresse du site
+changer_adresse.py
+# Données à ne pas publier (audit du 28 septembre 2026)
+livrables/projets/P8/*staging*

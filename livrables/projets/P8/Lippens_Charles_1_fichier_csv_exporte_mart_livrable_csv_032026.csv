@@ -1,0 +1,68 @@
+SLIDE,SOURCE_TABLE,DIMENSION,DETAIL,VALEUR,VALEUR_2,ECART,RANG
+8,S08_effectifs_par_annee,2022,,1696.0,,,1
+8,S08_effectifs_par_annee,2023,,1150.0,,,2
+8,S08_effectifs_par_annee,2024,,850.0,,,3
+8,S08_effectifs_par_annee,2025,,951.0,,,4
+9,S09_parite_homme_femme,2022,F,302.0,17.8,,1
+9,S09_parite_homme_femme,2023,F,247.0,21.5,,1
+9,S09_parite_homme_femme,2025,F,291.0,30.6,,1
+9,S09_parite_homme_femme,2024,F,217.0,25.5,,1
+9,S09_parite_homme_femme,2023,M,513.0,44.6,,2
+9,S09_parite_homme_femme,2022,M,688.0,40.6,,2
+9,S09_parite_homme_femme,2024,M,547.0,64.4,,2
+9,S09_parite_homme_femme,2025,M,596.0,62.7,,2
+9,S09_parite_homme_femme,2022,Non renseigné,706.0,41.6,,3
+9,S09_parite_homme_femme,2023,Non renseigné,390.0,33.9,,3
+9,S09_parite_homme_femme,2024,Non renseigné,86.0,10.1,,3
+9,S09_parite_homme_femme,2025,Non renseigné,64.0,6.7,,3
+10,S10_distribution_age,global,20-24 ans,4.1,7.6,-3.5,1
+10,S10_distribution_age,global,25-29 ans,19.6,7.3,12.3,2
+10,S10_distribution_age,global,30-34 ans,25.5,7.9,17.6,3
+10,S10_distribution_age,global,35-39 ans,18.6,8.1,10.5,4
+10,S10_distribution_age,global,40-44 ans,13.1,8.3,4.8,5
+10,S10_distribution_age,global,45-49 ans,8.5,8.1,0.4,6
+10,S10_distribution_age,global,50-54 ans,5.7,8.7,-3.0,7
+10,S10_distribution_age,global,55-59 ans,3.3,8.5,-5.2,8
+10,S10_distribution_age,global,60 ans ou plus,1.6,35.5,-33.9,9
+11,S11_evolution_age_top5,2022,30-34 ans,27.1,,,1
+11,S11_evolution_age_top5,2022,35-39 ans,19.8,,,2
+11,S11_evolution_age_top5,2022,40-44 ans,15.8,,,3
+11,S11_evolution_age_top5,2022,25-29 ans,14.7,,,4
+11,S11_evolution_age_top5,2022,45-49 ans,8.8,,,5
+11,S11_evolution_age_top5,2023,30-34 ans,27.6,,,6
+11,S11_evolution_age_top5,2023,25-29 ans,21.5,,,7
+11,S11_evolution_age_top5,2023,35-39 ans,16.8,,,8
+11,S11_evolution_age_top5,2023,40-44 ans,13.0,,,9
+11,S11_evolution_age_top5,2023,45-49 ans,8.3,,,10
+11,S11_evolution_age_top5,2024,25-29 ans,25.1,,,11
+11,S11_evolution_age_top5,2024,30-34 ans,22.0,,,12
+11,S11_evolution_age_top5,2024,35-39 ans,18.5,,,13
+11,S11_evolution_age_top5,2024,40-44 ans,11.2,,,14
+11,S11_evolution_age_top5,2024,45-49 ans,8.2,,,15
+11,S11_evolution_age_top5,2025,30-34 ans,23.3,,,16
+11,S11_evolution_age_top5,2025,25-29 ans,21.2,,,17
+11,S11_evolution_age_top5,2025,35-39 ans,18.6,,,18
+11,S11_evolution_age_top5,2025,40-44 ans,10.2,,,19
+11,S11_evolution_age_top5,2025,20-24 ans,8.5,,,20
+11,S11_evolution_age_top5,2025,45-49 ans,8.5,,,21
+12,S12_repartition_geographique,global,Île-de-France,45.6,17.4,28.2,1
+12,S12_repartition_geographique,global,Auvergne-Rhône-Alpes,9.4,11.6,-2.2,2
+12,S12_repartition_geographique,global,Hauts-de-France,6.5,8.3,-1.8,3
+12,S12_repartition_geographique,global,Nouvelle-Aquitaine,6.4,9.0,-2.6,4
+12,S12_repartition_geographique,global,Provence-Alpes-Côte d'Azur,6.3,7.6,-1.3,5
+12,S12_repartition_geographique,global,Occitanie,6.2,8.9,-2.7,6
+12,S12_repartition_geographique,global,Grand Est,5.5,8.0,-2.5,7
+12,S12_repartition_geographique,global,Pays de la Loire,3.4,5.5,-2.1,8
+12,S12_repartition_geographique,global,Bretagne,3.0,5.0,-2.0,9
+12,S12_repartition_geographique,global,Centre-Val de Loire,2.6,3.7,-1.1,10
+12,S12_repartition_geographique,global,Normandie,2.5,4.8,-2.3,11
+12,S12_repartition_geographique,global,Bourgogne-Franche-Comté,1.7,4.0,-2.3,12
+12,S12_repartition_geographique,global,DROM,1.0,5.7,-4.7,13
+12,S12_repartition_geographique,global,Corse,,0.5,,14
+13,S13_evolution_pct_idf,2022,Île-de-France,44.9,,,1
+13,S13_evolution_pct_idf,2023,Île-de-France,54.1,,,2
+13,S13_evolution_pct_idf,2024,Île-de-France,40.6,,,3
+13,S13_evolution_pct_idf,2025,Île-de-France,41.1,,,4
+14,S14_S16_comparaison_insee_synthese,genre,Femmes,31.1,52.4,-21.3,1
+14,S14_S16_comparaison_insee_synthese,region,Île-de-France,45.6,17.4,28.2,2
+14,S14_S16_comparaison_insee_synthese,age,25-39 ans,63.7,23.3,40.4,3
